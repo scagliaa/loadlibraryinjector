@@ -1,7 +1,3 @@
-//
-// Created by mattia.meli on 18/10/2023.
-//
-
 #ifndef LOADLIBRARYINJECTOR_UTIL_H
 #define LOADLIBRARYINJECTOR_UTIL_H
 
